@@ -4,11 +4,12 @@ This repository is a compilation of C# learning from Microsoft C# courses. All s
 
 Learning things:
 - Data Types
-- Variable declaration
+- Variable declaration, naming rules and convention
 - Data type casting and conversion
 - Performing operations on arrays using helper method
 - Character escape sequences
 - Compound assignment operators
 - Stateful vs Stateless methods
-- Parameters and argumet
-- 
+- Parameters and argument
+- Conditional statements with `if-else`, `switch-case`
+- Looping with `for`, `foreach`, `do-while`, `while`
