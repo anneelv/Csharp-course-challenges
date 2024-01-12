@@ -1,0 +1,28 @@
+D:\Programming Practice\C#\TestProject\bin\Debug\net8.0\TestProject.exe
+D:\Programming Practice\C#\TestProject\bin\Debug\net8.0\TestProject.deps.json
+D:\Programming Practice\C#\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+D:\Programming Practice\C#\TestProject\bin\Debug\net8.0\TestProject.dll
+D:\Programming Practice\C#\TestProject\bin\Debug\net8.0\TestProject.pdb
+D:\Programming Practice\C#\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Practice\C#\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+D:\Programming Practice\C#\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+D:\Programming Practice\C#\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+D:\Programming Practice\C#\TestProject\obj\Debug\net8.0\TestProject.dll
+D:\Programming Practice\C#\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+D:\Programming Practice\C#\TestProject\obj\Debug\net8.0\TestProject.pdb
+D:\Programming Practice\C#\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+D:\Programming Practice\C#\TestProject\obj\Debug\net8.0\ref\TestProject.dll
+D:\Github\Csharp-course-challenges\TestProject\bin\Debug\net8.0\TestProject.exe
+D:\Github\Csharp-course-challenges\TestProject\bin\Debug\net8.0\TestProject.deps.json
+D:\Github\Csharp-course-challenges\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+D:\Github\Csharp-course-challenges\TestProject\bin\Debug\net8.0\TestProject.dll
+D:\Github\Csharp-course-challenges\TestProject\bin\Debug\net8.0\TestProject.pdb
+D:\Github\Csharp-course-challenges\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Csharp-course-challenges\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+D:\Github\Csharp-course-challenges\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+D:\Github\Csharp-course-challenges\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+D:\Github\Csharp-course-challenges\TestProject\obj\Debug\net8.0\TestProject.dll
+D:\Github\Csharp-course-challenges\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+D:\Github\Csharp-course-challenges\TestProject\obj\Debug\net8.0\TestProject.pdb
+D:\Github\Csharp-course-challenges\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+D:\Github\Csharp-course-challenges\TestProject\obj\Debug\net8.0\ref\TestProject.dll

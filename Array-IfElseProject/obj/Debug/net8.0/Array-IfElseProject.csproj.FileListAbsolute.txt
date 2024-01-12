@@ -1,0 +1,14 @@
+D:\Programming Practice\C#\Array-IfElseProject\bin\Debug\net8.0\Array-IfElseProject.exe
+D:\Programming Practice\C#\Array-IfElseProject\bin\Debug\net8.0\Array-IfElseProject.deps.json
+D:\Programming Practice\C#\Array-IfElseProject\bin\Debug\net8.0\Array-IfElseProject.runtimeconfig.json
+D:\Programming Practice\C#\Array-IfElseProject\bin\Debug\net8.0\Array-IfElseProject.dll
+D:\Programming Practice\C#\Array-IfElseProject\bin\Debug\net8.0\Array-IfElseProject.pdb
+D:\Programming Practice\C#\Array-IfElseProject\obj\Debug\net8.0\Array-IfElseProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Practice\C#\Array-IfElseProject\obj\Debug\net8.0\Array-IfElseProject.AssemblyInfoInputs.cache
+D:\Programming Practice\C#\Array-IfElseProject\obj\Debug\net8.0\Array-IfElseProject.AssemblyInfo.cs
+D:\Programming Practice\C#\Array-IfElseProject\obj\Debug\net8.0\Array-IfElseProject.csproj.CoreCompileInputs.cache
+D:\Programming Practice\C#\Array-IfElseProject\obj\Debug\net8.0\Array-IfElseProject.dll
+D:\Programming Practice\C#\Array-IfElseProject\obj\Debug\net8.0\refint\Array-IfElseProject.dll
+D:\Programming Practice\C#\Array-IfElseProject\obj\Debug\net8.0\Array-IfElseProject.pdb
+D:\Programming Practice\C#\Array-IfElseProject\obj\Debug\net8.0\Array-IfElseProject.genruntimeconfig.cache
+D:\Programming Practice\C#\Array-IfElseProject\obj\Debug\net8.0\ref\Array-IfElseProject.dll
