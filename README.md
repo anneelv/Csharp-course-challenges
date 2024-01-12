@@ -2,7 +2,7 @@
 
 This repository is a compilation of C# learning from Microsoft C# courses. All self-created codes are under TestProject folder and under `Starter` folder inside all other folders.
 
-Learning things:
+Learned things:
 - Data Types
 - Variable declaration, naming rules and convention
 - Data type casting and conversion
