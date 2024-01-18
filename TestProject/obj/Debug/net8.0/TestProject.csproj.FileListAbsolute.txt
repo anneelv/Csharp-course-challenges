@@ -26,3 +26,4 @@ D:\Github\Csharp-course-challenges\TestProject\obj\Debug\net8.0\refint\TestProje
 D:\Github\Csharp-course-challenges\TestProject\obj\Debug\net8.0\TestProject.pdb
 D:\Github\Csharp-course-challenges\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
 D:\Github\Csharp-course-challenges\TestProject\obj\Debug\net8.0\ref\TestProject.dll
+D:\Github\Csharp-course-challenges\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
